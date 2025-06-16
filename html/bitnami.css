@@ -1,0 +1,39 @@
+.module_top, .module_bottom{
+  visibility: hidden;
+}
+
+table {
+  border: 0px !important;
+}
+
+.module_content img{
+  min-width: 70px;
+}
+
+.module_content h2{
+  font-size: 30px;
+}
+
+body {
+  font-family: Arial, sans-serif;
+ 
+}
+
+.form {
+  margin-left: 25px;
+}
+
+.start {
+  margin-top: 15px;
+}
+
+.info {
+  margin-top: 10px;
+  
+}
+
+.info p {
+  margin-left: 15px;
+  
+}
+
